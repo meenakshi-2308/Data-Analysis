@@ -15,7 +15,12 @@ The following variables are provided:
 
 The notebook contains:
 
-1) Python code which returns a line graph of the record high and record low temperatures by day of the year over the period 2005-2014. The area between the record high and record low temperatures for each day is shaded.
-2) Overlays a scatter of the 2015 data for any points (highs and lows) for which the ten year record (2005-2014) record high or record low was broken in 2015.
+1) Code using pandas library to clean data and retrieve relevant information from the dataset under study.
+2) Python code which returns a line graph of the record high and record low temperatures by day of the year over the period 2005-2014. The area between the record high and record low temperatures for each day is shaded.
+3) Overlays a scatter of the 2015 data for any points (highs and lows) for which the ten year record (2005-2014) record high or record low was broken in 2015.
 The data been given is near Ann Arbor, Michigan, United States
 
+Libraries Used:
+1) Pandas
+2) NumPy
+3) Matplotlib
